@@ -1,7 +1,7 @@
 Summary:	Extra tables for Fcitx
 Name:		fcitx-table-extra
 Version:	0.3.7
-Release:	1
+Release:	2
 Group:		System/Internationalization
 License:	GPLv2+
 URL:		http://fcitx-im.org/wiki/Fcitx
