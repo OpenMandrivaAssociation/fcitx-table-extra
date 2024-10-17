@@ -4,7 +4,7 @@ Version:	0.3.8
 Release:	3
 Group:		System/Internationalization
 License:	GPLv2+
-URL:		http://fcitx-im.org/wiki/Fcitx
+URL:		https://fcitx-im.org/wiki/Fcitx
 Source0:	http://download.fcitx-im.org/%{name}/%{name}-%{version}.tar.xz
 BuildRequires:	cmake
 BuildRequires:	pkgconfig(fcitx)
